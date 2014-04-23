@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TeamCore Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fourSquareURL">https://api.foursquare.com/v2/venues/search?client_id=NERLG4IFIOWZLN1ZFDWJLARWKYD3TYEBJ4UERR5WDGQWILJW&amp;client_secret=PGVTJJZ5UEDOK3G1MTFAKTUP32ZA5JD1FQELVE12XT3TVG5U&amp;v=20130815&amp;ll=40.7,-74&amp;query=beer</string>
+    <string name="unavailableAddressText">Address not available.</string>
+    <string name="loadingText">Loading venues from foursquare. . .</string>
+
+</resources>
